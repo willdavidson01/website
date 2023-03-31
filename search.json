@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Will’s Website",
+    "section": "",
+    "text": "Welcome to my website! I’m a University student majoring in Information Technology.\nI am interested in a summer internship focusing on business over four months, from June to August."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "The school projects I have are:\n\nToronto Marriage, which is an R package about marriages in Toronto.\nFood Bank, which is an R package on food bank usgae over the pandemic."
+  }
+]
