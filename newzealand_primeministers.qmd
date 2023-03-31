@@ -1,6 +1,0 @@
----
-title: "New Zealand Prime Ministers"
-author: "Will Davidson"
-format: pdf
-editor: visual
----
